@@ -25,8 +25,9 @@ estudo **Licenciatura em Computação na UEA** e tenho formação técnica em **
   Projeto de biblioteca de mecânicas para jogos, onde atuei como **desenvolvedor front-end**, utilizando:  
   - React + Vite, Typescript 
   - Styled Components  
-  - Context API e Reducer para gerenciamento de estado
+  - Context API 
   - Consumo de API Rest
+  - Docker
 
 - 🤰 **Ysys**  
   Projeto desenvolvido como **TCC na FMM**, voltado para auxiliar mulheres grávidas a encontrar maternidades e apoiar profissionais de saúde no **controle de leitos**.  
